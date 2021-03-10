@@ -1,0 +1,85 @@
+/* who we are style start  */
+
+.who{
+    width: 90%;
+    height: 1500px;
+    background: red;
+    overflow: auto;
+    margin: auto;
+}
+
+.whophoto img{
+    width: 45%;
+    height: 1500px;
+    /* display: inline-block; */
+    float: left;
+}
+
+.pref{
+    font-size: 3rem;
+    text-align: center;
+    height: 50%;
+
+}
+
+.points{
+    background: green;
+    height: 46%;
+}
+
+
+
+
+
+/* who we are style end  */
+
+/* ********************************************* */
+
+/* counters section start */
+
+
+
+.counters{
+    width: 90%;
+    background: lightgrey;
+    height: 250px;
+    margin: auto;
+}
+.counters div{
+    width: 23%;
+    margin-left: 1%;
+    float: left;
+    font-size: 2rem;
+}
+
+
+
+/* counters section end */
+
+
+/* Why choose us section start  */
+.heading{
+    margin: auto;
+    text-align: center;
+    font-size: 3rem;
+}
+.why{
+    width: 90%;
+    background: lightgrey;
+    height: 2000px;
+    margin: auto;
+    text-align: center;
+}
+.why div{
+    width: 29%;
+    height: 29%;
+    background: lightskyblue;
+    display: inline-block;
+    
+
+}
+
+
+
+
+/* Why choose us section start  */
